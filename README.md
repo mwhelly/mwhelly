@@ -1,3 +1,11 @@
+## RETINAL SCANNER: An Eye Disease Image Classifier Project 
+### By Mark Whelly 
+
+August 2022
+
+![image](https://user-images.githubusercontent.com/104471340/212449720-33047973-177a-4f26-bded-dd31d15da432.png)
+
+
 ## :ledger:  TABLE OF CONTENTS
 
 - [Introduction](#Introduction)
